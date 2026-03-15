@@ -1,0 +1,2 @@
+SQLAlchemy>=2.0.36
+tkcalendar>=1.6.0
